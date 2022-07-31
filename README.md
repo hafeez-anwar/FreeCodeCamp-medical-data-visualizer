@@ -1,1 +1,1 @@
-# Freecodecamp-medical-data-visualizer
+# FreeCodeCamp-medical-data-visualizer
